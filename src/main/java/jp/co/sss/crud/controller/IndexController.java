@@ -15,9 +15,11 @@ import jp.co.sss.crud.entity.Employee;
 import jp.co.sss.crud.form.LoginForm;
 import jp.co.sss.crud.repository.EmployeeRepository;
 
+
+// 小林が修正
 @Controller
 public class IndexController {
-	
+
 	@Autowired
 	EmployeeRepository employeeRepository;
 
@@ -33,7 +35,7 @@ public class IndexController {
 	@RequestMapping(path = "/login", method = RequestMethod.POST)
 	public String login(@Valid @ModelAttribute LoginForm loginForm, BindingResult result, HttpSession session,
 			Model model) {
-		
+
 		if (result.hasErrors()) {
 			return index(loginForm);
 		} else {
