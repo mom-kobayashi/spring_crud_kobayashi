@@ -1,6 +1,5 @@
 // 小林が修正②
-// 競合の解決
-// 自分で修正
+// 上書き
 package jp.co.sss.crud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
