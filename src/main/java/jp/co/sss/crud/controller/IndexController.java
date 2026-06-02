@@ -1,6 +1,3 @@
-// 小林が修正②
-//きょうごう
-// 競合
 package jp.co.sss.crud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +15,6 @@ import jp.co.sss.crud.entity.Employee;
 import jp.co.sss.crud.form.LoginForm;
 import jp.co.sss.crud.repository.EmployeeRepository;
 
-//小林が修正③
 @Controller
 public class IndexController {
 
@@ -70,5 +66,3 @@ public class IndexController {
 	}
 
 }
-// 自分の修正
-// 修正
