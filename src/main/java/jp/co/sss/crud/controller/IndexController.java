@@ -1,3 +1,4 @@
+// 小林が修正②
 package jp.co.sss.crud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +17,6 @@ import jp.co.sss.crud.form.LoginForm;
 import jp.co.sss.crud.repository.EmployeeRepository;
 
 
-// 小林が修正
 @Controller
 public class IndexController {
 
