@@ -1,5 +1,6 @@
 // 小林が修正②
 //きょうごう
+// 競合
 package jp.co.sss.crud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
