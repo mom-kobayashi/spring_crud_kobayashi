@@ -69,3 +69,5 @@ public class IndexController {
 	}
 
 }
+// 自分の修正
+// 修正
