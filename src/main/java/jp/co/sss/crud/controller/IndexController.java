@@ -1,7 +1,5 @@
-// 競合してみる
-// コメント
 package jp.co.sss.crud.controller;
-// 修正②
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -16,7 +14,7 @@ import jp.co.sss.crud.bean.EmployeeBean;
 import jp.co.sss.crud.entity.Employee;
 import jp.co.sss.crud.form.LoginForm;
 import jp.co.sss.crud.repository.EmployeeRepository;
-// 修正③
+
 @Controller
 public class IndexController {
 
