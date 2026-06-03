@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import jp.co.sss.crud.repository.EmployeeRepository;
 // 同じファイルpullしてコミット
+
+//違うファイル
 @Controller
 public class ListController {
 
