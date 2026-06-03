@@ -1,6 +1,6 @@
 //同じファイル編集、pullしてコミット
 package jp.co.sss.crud.controller;
-
+// 同じファイル編集
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
