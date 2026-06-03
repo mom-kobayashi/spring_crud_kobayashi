@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import jp.co.sss.crud.repository.EmployeeRepository;
-
+// 同じファイルpullしてコミット
 @Controller
 public class ListController {
 
