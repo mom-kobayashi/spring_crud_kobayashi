@@ -1,4 +1,4 @@
-// うわがき
+// 競合解決
 package jp.co.sss.crud.controller;
 // 修正②
 import org.springframework.beans.factory.annotation.Autowired;
