@@ -1,5 +1,5 @@
 package jp.co.sss.crud.controller;
-
+//違うファイル
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
