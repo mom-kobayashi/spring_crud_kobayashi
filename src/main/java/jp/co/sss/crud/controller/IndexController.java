@@ -15,7 +15,7 @@ import jp.co.sss.crud.bean.EmployeeBean;
 import jp.co.sss.crud.entity.Employee;
 import jp.co.sss.crud.form.LoginForm;
 import jp.co.sss.crud.repository.EmployeeRepository;
-
+// 修正③
 @Controller
 public class IndexController {
 
